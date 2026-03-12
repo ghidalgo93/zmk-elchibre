@@ -71,8 +71,8 @@
         media_layer {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
-        //│          │          │          │          │          │   │          │          │          │          │  Delete  │
-            &trans     &trans     &trans     &trans     &trans         &trans     &trans     &trans     &trans     &kp DEL
+        //│  reset   │          │          │          │          │   │          │          │          │          │  Delete  │
+           &bootloader  &trans     &trans     &trans     &trans         &trans     &trans     &trans     &trans     &kp DEL
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  CAPS    │  Prev    │  Play    │  Next    │          │   │          │          │          │          │          │
             &kp CAPS   &kp C_PREV &kp C_PP  &kp C_NEXT  &trans         &trans     &trans     &trans     &trans     &trans     
