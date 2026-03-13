@@ -23,4 +23,4 @@ include:
     shield: elchibre
     snipped: studio-rpc-usb-uart
   - board: xiao_ble//zmk
-    shield: [YOUR KEYBOARD SHIELD]_dongle prospector_adapter
+    shield: elchibre_dongle prospector_adapter
