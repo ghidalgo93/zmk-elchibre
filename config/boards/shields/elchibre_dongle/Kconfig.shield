@@ -1,0 +1,2 @@
+config SHIELD_ELCHIBRE_DONGLE
+    def_bool $(shields_list_contains,elchibre_dongle)

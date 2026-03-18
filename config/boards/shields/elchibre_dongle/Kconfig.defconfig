@@ -1,0 +1,9 @@
+if SHIELD_ELCHIBRE_DONGLE
+
+config ZMK_KEYBOARD_NAME
+    default "El Chibre"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif

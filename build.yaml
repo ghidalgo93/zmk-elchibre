@@ -22,5 +22,5 @@ include:
   - board: nice_nano//zmk
     shield: elchibre
     snipped: studio-rpc-usb-uart
-  - board: xiao_ble//zmk
-    shield: elchibre prospector_adapter
+  - board: xiao_ble/nrf52840
+    shield: elchibre_dongle prospector_adapter
