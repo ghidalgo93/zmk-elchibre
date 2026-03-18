@@ -1,0 +1,8 @@
+file_format: "1"
+id: elchibre_dongle
+name: El Chibre Dongle
+type: shield
+url: https://github.com/ghidalgo93/zmk-elchibre
+requires: [xiao_ble]
+features:
+  - keys

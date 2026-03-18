@@ -1,0 +1,8 @@
+file_format: "1"
+id: elchibre
+name: El Chibre
+type: shield
+url: https://github.com/ghidalgo93/zmk-elchibre
+requires: [pro_micro]
+features:
+  - keys
